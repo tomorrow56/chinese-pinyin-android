@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">中文ピンイン</string>
+    <string name="select_image">画像を選択</string>
+    <string name="take_photo">カメラで撮影</string>
+    <string name="recognize">認識開始</string>
+    <string name="copy_pinyin">ピンインをコピー</string>
+    <string name="copy_text">テキストをコピー</string>
+    <string name="copied">クリップボードにコピーしました</string>
+    <string name="no_text_found">テキストが見つかりませんでした</string>
+    <string name="recognizing">認識中...</string>
+    <string name="select_image_first">まず画像を選択してください</string>
+    <string name="recognized_text">認識テキスト</string>
+    <string name="pinyin_result">ピンイン</string>
+    <string name="tap_to_copy">タップしてコピー</string>
+    <string name="camera_permission_needed">カメラの権限が必要です</string>
+    <string name="permission_denied">権限が拒否されました</string>
+</resources>
